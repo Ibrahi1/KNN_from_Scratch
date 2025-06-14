@@ -28,12 +28,12 @@ git clone https://github.com/Ibrahi1/KNN_from_Scratch.git
 cd knn-from-scratch
 ```
 
-3. Install dependencies (you can use a virtual environment if preferred):
+2. Install dependencies (you can use a virtual environment if preferred):
 ```bash
 pip install numpy scikit-learn matplotlib
 ```
 
-5. Run the program:
+3. Run the program:
 ```bash
 python knntest.py
 ```
