@@ -9,9 +9,9 @@ pip install numpy scikit-learn matplotlib
 ```
 ## 📁 Project Structure
 
-├── KNN_implementation.py   # Contains the KNN class implementation
-├── kntest.py                 # Loads data, trains model, and evaluates accuracy
-├── README.md               # Project documentation
+├── KNN_implementation.py   # Contains the KNN class implementation  
+├── knntest.py             # Loads data, trains model, and evaluates accuracy  
+├── README.md              # Project documentation
 
 ## 🧪 Features
 
@@ -23,11 +23,17 @@ pip install numpy scikit-learn matplotlib
 ## 🚀 How to Run
 
 1. Clone the repository:
+```bash
 git clone https://github.com/Ibrahi1/KNN_from_Scratch.git
 cd knn-from-scratch
+```
 
-2. Install dependencies (you can use a virtual environment if preferred):
+3. Install dependencies (you can use a virtual environment if preferred):
+```bash
 pip install numpy scikit-learn matplotlib
+```
 
-3. Run the program:
+5. Run the program:
+```bash
 python knntest.py
+```
