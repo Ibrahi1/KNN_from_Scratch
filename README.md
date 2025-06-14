@@ -6,7 +6,7 @@ Simple implementation of the K-Nearest Neighbors (KNN) algorithm using NumPy. Tr
 
 ```bash
 pip install numpy scikit-learn matplotlib
-
+```
 ## 📁 Project Structure
 .
 ├── KNN_implementation.py   # Contains the KNN class implementation
