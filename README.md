@@ -21,7 +21,7 @@ pip install numpy scikit-learn matplotlib
 
 ## 🚀 How to Run
 1. Clone the repository:
-git clone https:[//github.com/yourusername/knn-from-scratch.git](https://github.com/Ibrahi1/KNN_from_Scratch.git
+git clone https://github.com/Ibrahi1/KNN_from_Scratch.git
 cd knn-from-scratch
 
 2. Install dependencies (you can use a virtual environment if preferred):
